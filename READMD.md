@@ -18,7 +18,7 @@
 
 ##### 사진
 
-!(https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jim_Carrey_2008.jpg/250px-Jim_Carrey_2008.jpg)
+!https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jim_Carrey_2008.jpg/250px-Jim_Carrey_2008.jpg
 
 
 ###### 제목6

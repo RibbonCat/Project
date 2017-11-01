@@ -18,7 +18,7 @@
 
 ##### 荤柳
 
-!https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jim_Carrey_2008.jpg/250px-Jim_Carrey_2008.jpg
+![咙 某府](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jim_Carrey_2008.jpg/250px-Jim_Carrey_2008.jpg "咙 某府")
 
 
 ###### 力格6
